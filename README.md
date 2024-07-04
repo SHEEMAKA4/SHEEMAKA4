@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SHEEMAKA4
+- 👋 Hi, I’m Yassir Sheemaka
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning wed design
+- 🌱 I’m currently learning web design
 - 💞️ I’m looking to collaborate on some projects
 - 📫 Reach me via email: <a href="mailto:yassirsheemaka@gmail.com">yassirsheemaka@gmail.com</a>
 - 😄 Pronouns: ...
